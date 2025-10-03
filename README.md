@@ -58,9 +58,9 @@ Estudiante dedicado de Ingeniería en Informática con sólidos conocimientos en
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AngelOlivares842&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AngelOlivares842&show_icons=true&theme=dark)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOlivares842&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOlivares842&layout=compact&theme=dark)
 
 ---
 
