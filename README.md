@@ -83,12 +83,6 @@ Estudiante dedicado de Ingeniería en Informática con sólidos conocimientos en
 
 ---
 
-## 💡 Filosofía de Desarrollo
-
-> *"El código no es solo instrucciones para una máquina, es arte y lógica que resuelve problemas reales"*
-
----
-
 <div align="center">
 
 ### ⚡ Dato Curioso
