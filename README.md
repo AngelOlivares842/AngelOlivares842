@@ -53,6 +53,11 @@ Estudiante dedicado de Ingeniería en Informática con sólidos conocimientos en
 ### 🎯 [Mi Portafolio Personal](https://info.kalwrd.me/)
 **CV Digital Interactivo** - Mi sitio web personal donde muestro mis proyectos y habilidades en desarrollo web.
 
+### 🌐 [Zens](https://www.zens.social/)
+**Pagina web Red Social** - Red social creada para innovador con personas con grandes ideas y proyectos
+
+
+
 > 💡 *Siempre trabajando en nuevos proyectos y mejorando mis habilidades*
 
 ---
