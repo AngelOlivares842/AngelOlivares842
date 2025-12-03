@@ -3,7 +3,7 @@
 **Estudiante de Ingeniería en Informática** | **Desarrollador Full Stack** | **Apasionado por la Tecnología**
 
 > 📚 Actualmente cursando 4° semestre de la carrera  
-> 🎯 20 años | Apasionado por el desarrollo de software y la innovación tecnológica
+> 🎯 21 años | Apasionado por el desarrollo de software y la innovación tecnológica
 
 ---
 
