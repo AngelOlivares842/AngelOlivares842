@@ -56,6 +56,8 @@ Estudiante dedicado de Ingeniería en Informática con sólidos conocimientos en
 ### 🌐 [Zens](https://www.zens.social/)
 **Pagina web Red Social** - Red social creada para innovador con personas con grandes ideas y proyectos
 
+### ☀️ [SunsSafe](https://kal-warding.itch.io/sunsafe-monitor-de-radiacin-uv-alertas)
+**SunSafe** - es una aplicación nativa de Android diseñada para cuidar tu salud frente a la exposición solar. Utilizando geolocalización precisa y datos meteorológicos en tiempo real, calcula exactamente cuánto tiempo puedes estar bajo el sol antes de sufrir daños en la piel
 
 
 > 💡 *Siempre trabajando en nuevos proyectos y mejorando mis habilidades*
@@ -80,11 +82,11 @@ Estudiante dedicado de Ingeniería en Informática con sólidos conocimientos en
 
 ## 🎯 Metas 2025
 
-- [ ] **Completar proyectos avanzados en React y Node.js**
-- [ ] **Aprender sobre inteligencia artificial y machine learning**
+- [x] **Completar proyectos avanzados en React y Node.js**
+- [x] **Aprender sobre inteligencia artificial y machine learning**
 - [ ] **Contribuir a proyectos open source**
-- [ ] **Desarrollar una aplicación móvil completa**
-- [ ] **Mejorar mis habilidades en DevOps**
+- [x] **Desarrollar una aplicación móvil completa**
+- [x] **Mejorar mis habilidades en DevOps**
 
 ---
 
