@@ -84,7 +84,7 @@ Estudiante dedicado de Ingeniería en Informática con sólidos conocimientos en
 
 - [x] **Completar proyectos avanzados en React y Node.js**
 - [x] **Aprender sobre inteligencia artificial y machine learning**
-- [ ] **Contribuir a proyectos open source**
+- [x] **Contribuir a proyectos open source**
 - [x] **Desarrollar una aplicación móvil completa**
 - [x] **Mejorar mis habilidades en DevOps**
 
