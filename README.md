@@ -59,6 +59,9 @@ Estudiante dedicado de Ingeniería en Informática con sólidos conocimientos en
 ### ☀️ [SunsSafe](https://kal-warding.itch.io/sunsafe-monitor-de-radiacin-uv-alertas)
 **SunSafe** - es una aplicación nativa de Android diseñada para cuidar tu salud frente a la exposición solar. Utilizando geolocalización precisa y datos meteorológicos en tiempo real, calcula exactamente cuánto tiempo puedes estar bajo el sol antes de sufrir daños en la piel
 
+### 🧠 [NeuralNetwork](https://red.kalwrd.me/)
+**RedNeuronal** - Pagina Web con threejs para modelos 3D con estilo futurista 
+
 
 > 💡 *Siempre trabajando en nuevos proyectos y mejorando mis habilidades*
 
