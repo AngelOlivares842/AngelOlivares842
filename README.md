@@ -1,4 +1,4 @@
-# ¡Hola, Soy Ángel Olivares! 👋
+# ¡Hola, Soy Angel Olivares! 👋
 
 **Estudiante de Ingeniería en Informática** | **Desarrollador Full Stack** | **Apasionado por la Tecnología**
 
