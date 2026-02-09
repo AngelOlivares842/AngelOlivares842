@@ -1,107 +1,81 @@
-# ¡Hola, Soy Angel Olivares! 👋
+## ¡Hola, Soy Angel Olivares! 👋
 
-**Estudiante de Ingeniería en Informática** | **Desarrollador Full Stack** | **Apasionado por la Tecnología**
-
-> 📚 Actualmente cursando 5° semestre de la carrera  
-> 🎯 21 años | Apasionado por el desarrollo de software y la innovación tecnológica
-
----
-
-## 🛠️ Tecnologías y Habilidades
-
-### **Lenguajes de Programación**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Frameworks y Librerías**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Bases de Datos**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Herramientas y Plataformas**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 📊 Mi Trayectoria
-
-Estudiante dedicado de Ingeniería en Informática con sólidos conocimientos en desarrollo full stack. Me encanta enfrentar nuevos desafíos tecnológicos y aprender constantemente. Mi experiencia incluye:
-
-- **Desarrollo Web**: Creación de aplicaciones con React, Node.js y Django
-- **Bases de Datos**: Diseño y gestión con MySQL y MongoDB
-- **Programación Embebida**: Proyectos con Arduino y sistemas IoT
-- **Administración**: Configuración de servidores Windows y Linux
-- **Desarrollo Mobile**: Conocimientos en Android Studio
-
----
-
-## 🌟 Proyecto Destacado
-
-### 🎯 [Mi Portafolio Personal](https://info.kalwrd.me/)
-**CV Digital Interactivo** - Mi sitio web personal donde muestro mis proyectos y habilidades en desarrollo web.
-
-### 🌐 [Zens](https://www.zens.social/)
-**Pagina web Red Social** - Red social creada para innovador con personas con grandes ideas y proyectos
-
-### ☀️ [SunsSafe](https://kal-warding.itch.io/sunsafe-monitor-de-radiacin-uv-alertas)
-**SunSafe** - es una aplicación nativa de Android diseñada para cuidar tu salud frente a la exposición solar. Utilizando geolocalización precisa y datos meteorológicos en tiempo real, calcula exactamente cuánto tiempo puedes estar bajo el sol antes de sufrir daños en la piel
-
-### 🧠 [NeuralNetwork](https://red.kalwrd.me/)
-**RedNeuronal** - Pagina Web con threejs para modelos 3D con estilo futurista 
-
-
-> 💡 *Siempre trabajando en nuevos proyectos y mejorando mis habilidades*
-
----
-
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AngelOlivares842&show_icons=true&theme=dark)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOlivares842&layout=compact&theme=dark)
-
----
-
-## 📫 ¡Conectemos!
-
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://info.kalwrd.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-andr%C3%A9s-olivares-rosas-391878271/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/un.saco.wea/)
-
----
-
-## 🎯 Metas 2025
-
-- [x] **Completar proyectos avanzados en React y Node.js**
-- [x] **Aprender sobre inteligencia artificial y machine learning**
-- [x] **Contribuir a proyectos open source**
-- [x] **Desarrollar una aplicación móvil completa**
-- [x] **Mejorar mis habilidades en DevOps**
-
----
+**Computer Science Student** | **Full Stack Developer** | **Security & Infrastructure Enthusiast**
 
 <div align="center">
-
-### ⚡ Dato Curioso
-*Cuando no estoy programando, probablemente esté aprendiendo nuevas tecnologías o trabajando en algún proyecto personal*
-
-**¡Siéntete libre de explorar mis repositorios y contactarme!** 🚀
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelOlivares842&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
 
-*⭐ Actualizado regularmente con nuevos proyectos y aprendizajes*
+## 🚀 Perfil Profesional
+
+Estudiante de **Ingeniería en Informática** (5° semestre) con un sólido trasfondo técnico y capacidad de liderazgo en equipos de desarrollo. Especializado en la creación de soluciones escalables y seguras, aplicando metodologías ágiles y buenas prácticas de arquitectura.
+
+* 🛡️ **Ciberseguridad:** Profundizando en vectores de ataque, hardening de sistemas y auditorías de infraestructura TI.
+* 🏗️ **Arquitectura:** Experiencia implementando microservicios, APIs RESTful y gestión de estados complejos.
+* ⚙️ **Low-Level & Sistemas:** Apasionado por la optimización de recursos y el desarrollo de sistemas base (S.O. y automatización).
+
+---
+
+## 🛠️ Stack Tecnológico & Expertise
+
+### **Core Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+### **Frontend & Backend Ecosystem**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+
+### **Infraestructura, DevOps & Seguridad**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🌟 Proyectos de Ingeniería
+
+### 🐧 **AkiraOS: Custom Linux Distribution**
+* **Enfoque:** Optimización del kernel y pre-configuración de entornos de desarrollo (IDE, Toolchains) para estudiantes.
+* **Stack:** Linux Base, Shell Scripting, Package Management.
+
+### 🌐 **Zens Social: Scalable Web Architecture**
+* **Enfoque:** Red social con arquitectura orientada a la eficiencia en el renderizado y gestión de datos en tiempo real.
+* **Stack:** Full Stack JS, REST APIs, Database Design.
+
+### 🛡️ **SunSafe: Mobile Health Solutions**
+* **Enfoque:** Implementación de servicios de geolocalización y consumo de APIs meteorológicas para el cálculo de índices de radiación UV.
+* **Stack:** Android SDK, Java/Kotlin, API Integration.
+
+### 🤖 **Akira Desktop: Performance-First Assistant**
+* **Enfoque:** Herramienta de productividad de bajo consumo de memoria utilizando **Rust** y **Tauri** para evitar el overhead de Electron.
+* **Stack:** Rust, Tauri, WebView2.
+
+---
+
+## 📈 Análisis de Actividad
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOlivares842&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Let's Build Something Secure
+* 🌍 **Portfolio:** [info.kalwrd.me](https://info.kalwrd.me/)
+* 💼 **LinkedIn:** [Angel Olivares](https://www.linkedin.com/in/angel-andrés-olivares-rosas-391878271/)
+* 🛠️ **Dev Domain:** [akiradev.cl](https://akiradev.cl)
+
+---
+<div align="center">
+  <p><i>"Security is not a product, but a process." — Bruce Schneier</i></p>
+  <img src="https://komarev.com/ghpvc/?username=AngelOlivares842&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
