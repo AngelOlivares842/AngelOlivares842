@@ -78,6 +78,15 @@ Estudiante de **Ingeniería en Informática** (5° semestre). Mi enfoque combina
 
 ---
 
+## 🧠Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AngelOlivares842&theme=dark&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOlivares842&layout=compact)
+
+---
+
+
 <div align="center">
   <p><i>"The more you know, the more you realize you don't know."</i></p>
   <img src="https://komarev.com/ghpvc/?username=AngelOlivares842&color=blueviolet&style=flat-square" alt="Profile Views" />
