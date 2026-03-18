@@ -75,7 +75,7 @@ Estudiante de **Ingeniería en Informática** (5° semestre). Mi enfoque combina
 ## 📫 Conecta conmigo
 * 🌍 **Personal Hub:** [info.kalwrd.me](https://info.kalwrd.me/)
 * 💼 **LinkedIn:** [Angel Olivares](https://www.linkedin.com/in/angel-andrés-olivares-rosas-391878271/)
-* 🛠️ **Dev Domain:** [akiradev.cl](https://www.mekode.cl)
+* 🛠️ **Dev Domain:** [www.mekode.cl](https://www.mekode.cl)
 
 ---
 
