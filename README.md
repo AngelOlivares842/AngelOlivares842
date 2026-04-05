@@ -9,7 +9,7 @@
 Estudiante de **Ingeniería en Informática** (5° semestre). Mi enfoque combina el ciclo de vida de desarrollo de software (SDLC) con la gestión avanzada de infraestructura crítica y la ciberseguridad aplicada. Poseo certificaciones en **Desarrollo Full Stack** e **Infraestructura TI Segura**.
 
 * 🛡️ **Cybersecurity (Red/Blue Team):** Especializado en Hardening de sistemas, análisis de vulnerabilidades y despliegue de firewalls/IDS.
-* ☁️ **Cloud & Infrastructure:** Gestión de cargas de trabajo en **AWS**, administración avanzada de **Windows Server** (Active Directory, DNS, Group Policy) y entornos **Linux Enterprise**.
+* ☁️ **Cloud & Infrastructure:** Gestión de cargas de trabajo en **AWS**, administración avanzada de **Windows Server** (Active Directory, DNS, Group Policy) y entornos **Linux**.
 * 🔧 **Hardware & Industrial IoT:** Integración de sistemas embebidos con **Raspberry Pi 4**, control de hardware mediante **C++** y robótica competitiva.
 
 ---
