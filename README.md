@@ -49,44 +49,42 @@ Estudiante de **Ingeniería en Informática** (5° semestre). Mi enfoque combina
 
 ---
 
-## 🌟 Proyectos de Ingeniería & Seguridad
+## 🌟 Proyectos Destacados
 
-### 🐧 **AkiraOS: Custom Kernel & Distro Engineering**
-* **Enfoque:** Optimización del kernel Linux para estaciones de trabajo académicas.
-* **Key Specs:** Automatización de despliegue mediante Shell Scripting, gestión de Toolchains de desarrollo y entornos de seguridad pre-configurados.
-
-### 🌐 **Zens Social: Scalable Web Architecture**
-* **Enfoque:** Plataforma social diseñada bajo principios de alta disponibilidad y escalabilidad horizontal.
-* **Key Specs:** Implementación de protocolos de autenticación segura, APIs RESTful y gestión de estados complejos en tiempo real.
-
-### 🦾 **Robotics Tournament: Robotic Arm Controller**
-* **Enfoque:** Ingeniería de control para hardware industrial de precisión.
-* **Key Specs:** Programación de bajo nivel, implementación de cinemática inversa y reducción de latencia en la comunicación de sensores.
+### 🐧 **AkiraOS: Custom Distro Engineering**
+* **Enfoque:** Construcción de una distribución Linux optimizada para estudiantes de informática, eliminando bloatware y pre-configurando entornos de desarrollo.
+* **Stack:** Shell Scripting, Kernel Optimization, Rust.
 
 ### 🤖 **Akira Desktop: Performance-First Assistant**
-* **Enfoque:** Software de sistema optimizado para evitar el overhead de memoria de arquitecturas basadas en Electron.
-* **Key Specs:** Construido con **Tauri + Rust**, integrando hooks de sistema local y consumo mínimo de recursos.
+* **Enfoque:** Asistente personal de alto rendimiento que reemplaza arquitecturas pesadas (Electron) por una solución nativa y ligera.
+* **Stack:** **Rust + Tauri**, integración con APIs de sistema local.
 
-### 🛡️ **Cybersecurity Labs: Sandbox & Awareness**
-* **Enfoque:** Investigación de malware en entornos controlados y desarrollo de laboratorios para concientización en seguridad TI.
+### 🌐 **Zens Social: Scalable Web Architecture**
+* **Enfoque:** Red social full-stack con arquitectura desacoplada y escalabilidad horizontal.
+* **Stack:** Astro, React, Firebase (Auth & Firestore).
+
+### 🛡️ **FabEntry: Security Solution**
+* **Enfoque:** Control de acceso físico mediante RFID/ESP32 (FabEntry).
+* **Hardware:** ESP32-CAM, RFID-RC522, Raspberry Pi 4.
 
 ---
 
 ## 📫 Conecta conmigo
 * 🌍 **Personal Hub:** [info.kalwrd.me](https://info.kalwrd.me/)
 * 💼 **LinkedIn:** [Angel Olivares](https://www.linkedin.com/in/angel-andrés-olivares-rosas-391878271/)
-* 🛠️ **Dev Domain:** [www.mekode.cl](https://www.mekode.cl)
+* 🚀 **Business:** [www.mekode.cl](https://www.mekode.cl)
 
 ---
 
-## 🧠Stats
+## 🧠 Stats & Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AngelOlivares842&theme=dark&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOlivares842&layout=compact)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AngelOlivares842&theme=dark&mode=weekly" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelOlivares842&layout=compact&theme=dark" alt="Top Langs" />
+</div>
 
 ---
-
 
 <div align="center">
   <p><i>"The more you know, the more you realize you don't know."</i></p>
